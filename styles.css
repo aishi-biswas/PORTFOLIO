@@ -1,0 +1,190 @@
+body {
+  margin:0;
+  text-align: center;
+}
+
+.topnav {
+  background-color:#0D7377 ;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.top {
+  background-color: #E3FDFD;
+  position: relative;
+  padding-top:150px;
+
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #E4CDA7;
+  border-width: 5px;
+  border-radius:0;
+  width: 5%;
+}
+
+.sub{
+  font-family: 'Balsamiq Sans', cursive;
+  color: #0D7377;
+}
+
+.profile{
+  padding-bottom: 30px;
+  width:60%;
+  margin: 90px auto 100px auto;
+  text-align: left;
+}
+
+
+.education{
+  padding-bottom: 30px;
+  width:70%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+.skills{
+  padding-bottom: 30px;
+  padding-left: 100px;
+  width:70%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  
+}
+
+.line{
+  border-style: none;
+  border-color: white;
+}
+
+.contact-me{
+  padding-top: 90px;
+  padding-bottom: 30px;
+}
+
+.bottom-container{
+  padding-bottom: 1px;
+  padding-top: 30px;
+  background-color: #E3FDFD;
+}
+
+h1 {
+  font-family: 'Yellowtail', cursive;
+  font-size: 50px;
+  color: #0D7377;
+  margin-top: 0;
+}
+
+h2{
+  font-family: 'Balsamiq Sans', cursive;
+  color: #0D7377;
+}
+
+
+td{
+  font-family: 'Balsamiq Sans', cursive;
+  color: black;
+}
+
+p{
+  font-family: 'Balsamiq Sans', cursive;
+  color: black;
+}
+
+
+#image1{
+  position: absolute;
+  right: 300px;
+  top:50px;
+  height:100px;
+  width:100px;
+}
+
+#image2{
+  height:100px;
+  width:100px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+#image3{
+  position: relative;
+  height: 300px;
+  width: 350px;
+}
+
+
+#mypic{
+  height:140px;
+  width: 155px;
+  float: right;
+  margin-left: 150px;
+}
+
+#edu{
+  height:170px;
+  width: 175px;
+  float: left;
+  margin-right: 150px;
+}
+
+#skill_picture{
+  height:130px;
+  width: 140px;
+  float: right;
+  margin-right: 100px;
+}
+
+#linkedin{
+  height:40px;
+  width:40px;
+  margin-right: 80px;
+}
+
+#twitter{
+  height:40px;
+  width:40px;
+  margin-right: 80px;
+}
+
+#instagram{
+  height:40px;
+  width:40px;
+}
+
+#star{
+  height: 20px;
+  width: 20px;
+}
+
+.btn{
+  background: #0D7377;
+  background-image: -webkit-linear-gradient(top,#1A5F7A, #24A19C);
+  background-image: -moz-linear-gradient(top,#1A5F7A, #24A19C);
+  background-image: -ms-linear-gradient(top,#1A5F7A, #24A19C);
+  background-image: -o-linear-gradient(top,#1A5F7A, #24A19C);
+  background-image: linear-gradient(to bottom, #1A5F7A,#24A19C);
+  -webkit-border-radius: 10;
+  -moz-borde-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color:white;
+  font-size:15px;
+  padding: 10px 20px 10px 20px;
+}
